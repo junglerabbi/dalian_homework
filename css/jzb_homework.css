@@ -1,0 +1,24 @@
+.login{
+	margin-top: 10%;
+}
+.serch{
+	margin-top: 50px;
+	margin-left: 50px;
+}
+.serch input{
+	width: 200px;
+	display:inline-block;
+}
+.list{
+	width:800px;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.add{
+	margin-top: 50px;
+	margin-left: 50px;
+}
+.add input{
+	width:200px;
+	display:inline-block;
+}
